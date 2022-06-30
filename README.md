@@ -48,7 +48,7 @@ https://github.com/LucasBinho/Projeto_Final_Modulo_03
 
   - [Camila Reis](https://github.com/cxavier6)
   - [Gabriel Christ](https://github.com/Gcc10bin)
-  - [Gustavo Pereira](https://www.linkedin.com/in/raphael-gomes1706/)
+  - [Gustavo Pereira](https://github.com/gnlto)
   - [Lucas Passos](https://github.com/LucasBinho)
   - [Ramom Ferraz](https://github.com/ramomfrz)
   
