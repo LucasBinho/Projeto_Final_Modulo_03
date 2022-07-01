@@ -24,13 +24,24 @@ cima do conjunto de dados selecionado.
 
 <br>
 
-<h2 id="linguagens">Linguagens & Ferramentas utilizadas no projeto :bar_chart:</h2>
+<h2 id="linguagens">Linguagens & Ferramentas utilizadas no projeto :books:</h2>
 
   - [x] MySQL WorkBench
   - [x] Git
   - [x] Miro
   - [x] Excel
 
+<h2 id="gráficos">Gráficos Estatísticos do Projeto :bar_chart:</h2>
+
+<img src = "https://github.com/LucasBinho/Projeto_Final_Modulo_03/blob/main/Gr%C3%A1ficos/Ala.PNG" alt = "Gráfico sobre os melhores alas do projeto">
+<img src = "https://github.com/LucasBinho/Projeto_Final_Modulo_03/blob/main/Gr%C3%A1ficos/Ala_Armador.PNG" alt = "Gráfico sobre os melhores alas armadores do projeto">
+<img src = "https://github.com/LucasBinho/Projeto_Final_Modulo_03/blob/main/Gr%C3%A1ficos/Ala_Piv%C3%B4.PNG" alt = "Gráfico sobre os melhores alas pivô do projeto">
+<img src = "https://github.com/LucasBinho/Projeto_Final_Modulo_03/blob/main/Gr%C3%A1ficos/Armadores.PNG" alt = "Gráfico sobre os melhores armadores do projeto">
+<img src = "https://github.com/LucasBinho/Projeto_Final_Modulo_03/blob/main/Gr%C3%A1ficos/Piv%C3%B4.PNG" alt = "Gráfico sobre os melhores pivôs do projeto">
+<img src = "https://github.com/LucasBinho/Projeto_Final_Modulo_03/blob/main/Gr%C3%A1ficos/Times_2016.PNG" alt = "Gráfico sobre os melhores times de 2016 do projeto">
+<img src = "https://github.com/LucasBinho/Projeto_Final_Modulo_03/blob/main/Gr%C3%A1ficos/Times_2017.PNG" alt = "Gráfico sobre os melhores times de 2017 do projeto">
+<img src = "https://github.com/LucasBinho/Projeto_Final_Modulo_03/blob/main/Gr%C3%A1ficos/Times_2018.PNG" alt = "Gráfico sobre os melhores times de 2018 do projeto">
+<img src = "https://github.com/LucasBinho/Projeto_Final_Modulo_03/blob/main/Gr%C3%A1ficos/Times_2019.PNG" alt = "Gráfico sobre os melhores times de 2019 do projeto">
 
 ##
 
